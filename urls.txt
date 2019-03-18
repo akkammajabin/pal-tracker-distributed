@@ -1,0 +1,8 @@
+https://registration-pal-ajgr.cfapps.io/users/12
+https://registration-pal-ajgr.cfapps.io/accounts?ownerId=12
+https://registration-pal-ajgr.cfapps.io/projects?accountId=22
+https://allocations-pal-ajgr.cfapps.io/allocations?projectId=22
+https://backlog-pal-ajgr.cfapps.io/stories?projectId=22
+https://timesheets-pal-ajgr.cfapps.io/time-entries?userId=12
+
+
