@@ -9,4 +9,5 @@ applications:
     #REGISTRATION_SERVER_ENDPOINT: http://registration-pal-ajgr.cfapps.io
     JBP_CONFIG_OPEN_JDK_JRE: '{ jre: { version: 11.+ } }'
   services:
-  - tracker-service-registry
+  - tracker-timesheets-database
+  - tracker-circuit-breaker-dashboard
